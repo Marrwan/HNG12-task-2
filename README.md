@@ -3,7 +3,7 @@
 This API classifies numbers with interesting mathematical properties and a fun fact.
 
 ## **🌐 Live URL**
-[https://number-api.onrender.com/api/classify-number?number=371](https://number-api.onrender.com/api/classify-number?number=371)
+[https://hng12-task-2.onrender.com/api/classify-number?number=371](https://hng12-task-2.onrender.com/api/classify-number?number=371)
 
 ## **🛠️ Tech Stack**
 - Node.js
@@ -40,7 +40,7 @@ GET /api/classify-number?number={number}
 
 ### 🚀 Running Locally
 ```sh
-git clone https://github.com/yourusername/number-api.git
+git clone https://github.com/Marrwan/HNG12-task-2.git
 cd number-api
 npm install
 npm start
